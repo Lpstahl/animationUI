@@ -10,8 +10,9 @@ namespace Screens
     public enum ScreenType
     {
         Panel,
-        Info_Panel,
-        Shop
+        Info,
+        Shop,
+        Inventory
     }
 
     public class ScreenBase : MonoBehaviour
