@@ -6165,7 +6165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7388ad1ac6f27534a95c9e6242a36bdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  screenType: 1
+  screenType: 3
   listObjects:
   - {fileID: 946255063}
   - {fileID: 2067163923}
@@ -8496,7 +8496,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5478785042794623304, guid: ba3a1aee54ab6804abce9e7e68ce679f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 180216.75
+      value: 201685.36
       objectReference: {fileID: 0}
     - target: {fileID: 5478785042808731176, guid: ba3a1aee54ab6804abce9e7e68ce679f, type: 3}
       propertyPath: m_AnchorMax.y
